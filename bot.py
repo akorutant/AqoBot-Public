@@ -6,8 +6,8 @@ intents = discord.Intents.all()
 
 settings = {
     'token': 'BOT_TOKEN',
-    'bot': 'AqoBot',
-    'id': 807855669880815646,
+    'bot': 'NAME_BOT',
+    'id': id,
     'prefix': '!'
 }
 
